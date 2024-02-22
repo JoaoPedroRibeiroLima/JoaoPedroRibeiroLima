@@ -1,4 +1,4 @@
-## Olá, eu sou João Pedro Lima👋
+# Olá, eu sou João Pedro Lima👋
 
 - 💻 Especializado em front-end
 - ⚛️ Estudando React
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRibeiroLima&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-### Portfólio:
+## Portfólio:
 - <a href="https://joaopedroribeirolima.github.io/projeto-clima/">Projeto Cima<a/>
 - <a href="https://joaopedroribeirolima.github.io/projeto-android/">Projeto Android<a/>
 - <a href="https://joaopedroribeirolima.github.io/projeto-login/">Projeto Login<a/>

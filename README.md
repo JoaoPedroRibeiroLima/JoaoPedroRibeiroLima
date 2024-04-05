@@ -10,11 +10,11 @@
 </div>
 
 ## Portfólio:
-- <a href="https://joaopedroribeirolima.github.io/projeto-clima/">Projeto Cima<a/>
-- <a href="https://joaopedroribeirolima.github.io/projeto-android/">Projeto Android<a/>
-- <a href="https://joaopedroribeirolima.github.io/projeto-login/">Projeto Login<a/>
-- <a href="https://joaopedroribeirolima.github.io/projeto-pokedex/">Projeto Pokedex<a/>
-- <a href="https://joaopedroribeirolima.github.io/projeto-cordel/">Projeto Cordel<a/>
+- <a href="https://joaopedroribeirolima.github.io/projeto-clima/" target="_blank">Projeto Cima<a/>
+- <a href="https://joaopedroribeirolima.github.io/projeto-android/" target="_blank">Projeto Android<a/>
+- <a href="https://joaopedroribeirolima.github.io/projeto-login/" target="_blank">Projeto Login<a/>
+- <a href="https://joaopedroribeirolima.github.io/projeto-pokedex/" target="_blank">Projeto Pokedex<a/>
+- <a href="https://joaopedroribeirolima.github.io/projeto-cordel/" target="_blank">Projeto Cordel<a/>
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">

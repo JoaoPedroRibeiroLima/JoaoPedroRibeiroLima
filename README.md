@@ -15,6 +15,7 @@
 - <a href="https://joaopedroribeirolima.github.io/projeto-login/" target="_blank">Projeto Login<a/>
 - <a href="https://joaopedroribeirolima.github.io/projeto-pokedex/" target="_blank">Projeto Pokedex<a/>
 - <a href="https://joaopedroribeirolima.github.io/projeto-cordel/" target="_blank">Projeto Cordel<a/>
+- <a href="https://joaopedroribeirolima.github.io/Fresco/" target="_blank">Projeto Fresco<a/>
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
